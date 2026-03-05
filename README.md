@@ -57,17 +57,14 @@ Implemented Prometheus + Grafana monitoring with alerting.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravalliika\&show_icons=true\&theme=tokyonight)
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pravalliika&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravalliika\&layout=compact\&theme=tokyonight)
 
 ---
 
-# 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pravalliika\&theme=tokyonight)
-
----
 
 # 🌐 Connect With Me
 
