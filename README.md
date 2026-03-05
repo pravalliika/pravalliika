@@ -1,4 +1,4 @@
-# pravallika
+
 # 👋 Hi, I'm Pravallika
 
 <p align="center">
