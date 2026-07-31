@@ -2,7 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Pravallika%20Medisetti&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=DevOps%20%7C%20DevSecOps%20%7C%20AIOps%20Engineer&descSize=18&descAlignY=68&animation=fadeIn"/>
 <br/>
 <a href="https://www.linkedin.com/in/pravallikamedisetti"><img src="https://img.shields.io/badge/LinkedIn-pravallikamedisetti-6366f1?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://pravallika.devsecs.online"><img src="https://img.shields.io/badge/Portfolio-pravallika.devsecs.online-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@pravallika96973"><img src="https://img.shields.io/badge/Medium-@pravallika96973-000000?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;
 <a href="mailto:pravallikame@gmail.com"><img src="https://img.shields.io/badge/Gmail-pravallikame@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
  
@@ -165,7 +164,6 @@ quote: "I don't just run pipelines —
  
 <div align="center">
 <a href="https://www.linkedin.com/in/pravallikamedisetti"><img src="https://img.shields.io/badge/LinkedIn-pravallikamedisetti-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://pravallika.devsecs.online"><img src="https://img.shields.io/badge/Portfolio-pravallika.devsecs.online-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@pravallika96973"><img src="https://img.shields.io/badge/Medium-@pravallika96973-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/pravalliika"><img src="https://img.shields.io/badge/GitHub-pravalliika-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
  
