@@ -1,0 +1,17 @@
+<svg width="100%" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#0891b2" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#059669" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="17" width="1200" height="4" rx="2" fill="url(#lineGrad)"/>
+  <circle cx="600" cy="19" r="5" fill="#7c3aed" filter="url(#dglow)"/>
+</svg>
