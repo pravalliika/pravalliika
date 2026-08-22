@@ -48,7 +48,7 @@ Alongside production-style project work, I actively build and ship AI-powered De
 <b>4</b><br/><sub>Production-grade Projects</sub>
 </td>
 <td align="center" width="150" style="background: rgba(34,211,238,0.06); backdrop-filter: blur(16px); border:1px solid rgba(148,163,184,0.25); border-radius:14px; padding:16px;">
-<b>Trivy · SonarQube · ESO</b><br/><sub>DevSecOps</sub>
+<b>Trivy · SonarQube · </b><br/><sub>DevSecOps</sub>
 </td>
 <td align="center" width="150" style="background: rgba(167,139,250,0.06); backdrop-filter: blur(16px); border:1px solid rgba(148,163,184,0.25); border-radius:14px; padding:16px;">
 <b>Bedrock · SageMaker</b><br/><sub>AIOps</sub>
@@ -108,7 +108,6 @@ Extending my DevOps foundation into the AI layer — using LLMs to make pipeline
 
 ![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazon-aws&logoColor=67e8f9&labelColor=1e1b4b)
 ![Azure](https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoft-azure&logoColor=67e8f9&labelColor=1e1b4b)
-![GCP](https://img.shields.io/badge/Google_Cloud-0f172a?style=flat-square&logo=google-cloud&logoColor=67e8f9&labelColor=1e1b4b)
 
 **⚙️ DevOps & Orchestration**
 
