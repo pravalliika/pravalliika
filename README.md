@@ -158,7 +158,7 @@ Extending my DevOps foundation into the AI layer — using LLMs to make pipeline
 | **Containers & Kubernetes** | Docker multi-stage builds, EKS, Helm, cert-manager, RBAC |
 | **DevSecOps** | Shift-left scanning with SonarQube, Trivy, OWASP ZAP, and External Secrets Operator |
 | **AIOps** | Bedrock Nova Lite, Bedrock Claude, and SageMaker wired into real pipelines |
-| **Observability** | Prometheus, Grafana, EFK Stack, CloudWatch, and Athena SQL |
+| **Observability** | Prometheus, Grafana, EFK Stack, CloudWatch, and Datadog |
 | **Cloud Cost & FinOps** | Lambda + Bedrock + Cost Explorer automation for spend visibility |
 
 </div>
