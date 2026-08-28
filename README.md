@@ -4,12 +4,6 @@
 
 <br/><br/>
 
-<a href="https://pravallika.devsecs.online" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=67e8f9&labelColor=1e1b4b" />
-</a>
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9&labelColor=1e1b4b)](https://www.linkedin.com/in/pravallikamedisetti)
 [![Medium](https://img.shields.io/badge/Medium-0f172a?style=for-the-badge&logo=medium&logoColor=67e8f9&labelColor=1e1b4b)](https://medium.com/@pravallika96973)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=1e1b4b)](mailto:pravallikame@gmail.com)
@@ -179,94 +173,4 @@ Extending my DevOps foundation into the AI layer — using LLMs to make pipeline
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pravalliika&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=67e8f9&text_color=94a3b8&icon_color=a78bfa" />
-<img width="49%" src="https://streak-stats.demolab.com?user=pravalliika&theme=transparent&hide_border=true&stroke=94a3b8&ring=22d3ee&fire=a78bfa&currStreakLabel=67e8f9&currStreakNum=67e8f9&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pravalliika&theme=react-dark&bg_color=00000000&color=67e8f9&line=22d3ee&point=a78bfa&area=true&hide_border=true" />
-
-<img width="100%" src="https://ghchart.rshah.org/22d3ee/pravalliika" alt="Contribution Calendar" />
-
-</div>
-
-<br/>
-
-<img src="divider.svg" width="100%" />
-
-## <span>🚀 Featured Projects</span>
-
-<div style="background: linear-gradient(135deg, rgba(34,211,238,0.07), rgba(167,139,250,0.04)); backdrop-filter: blur(18px); border:1px solid rgba(148,163,184,0.25); border-radius:16px; padding:18px; margin-bottom:14px;">
-
-**[MediBot — AI-Powered Patient Triage System](https://github.com/pravalliika/medibot)**
-Jenkins → Trivy → SonarQube gate → Nexus → ECR → ArgoCD → EKS, with AI triage via Bedrock Nova Lite and full Prometheus/Grafana monitoring.
-`Jenkins` `Trivy` `SonarQube` `Bedrock Nova Lite` `EKS` `ArgoCD`
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(167,139,250,0.07), rgba(52,211,153,0.04)); backdrop-filter: blur(18px); border:1px solid rgba(148,163,184,0.25); border-radius:16px; padding:18px; margin-bottom:14px;">
-
-**[ComplianceIQ — AI-Powered Compliance Automation](https://github.com/pravalliika/complianceiq)**
-6 microservices on AWS EKS with SageMaker risk scoring, Bedrock Claude remediation, and zero secrets in Git via External Secrets Operator.
-`EKS` `SageMaker` `Bedrock Claude` `ArgoCD` `External Secrets`
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(52,211,153,0.07), rgba(34,211,238,0.04)); backdrop-filter: blur(18px); border:1px solid rgba(148,163,184,0.25); border-radius:16px; padding:18px; margin-bottom:14px;">
-
-**[K8s Ecommerce Microservices CI/CD](https://github.com/pravalliika/k8s-ecommerce-microservices-cicd)**
-GitOps microservices on AWS EKS with GitHub Actions → ECR → ArgoCD auto-deploys, Terraform-provisioned infra, and full EFK + Grafana + Prometheus observability.
-`EKS` `Terraform` `GitHub Actions` `ArgoCD` `EFK` `Grafana`
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(34,211,238,0.07), rgba(167,139,250,0.04)); backdrop-filter: blur(18px); border:1px solid rgba(148,163,184,0.25); border-radius:16px; padding:18px;">
-
-**[AWS Log Analytics — CloudWatch & Athena](https://github.com/pravalliika/aws-log-analytics-cloudwatch-athena)**
-Serverless log pipeline from CloudWatch Agent to S3 to Athena SQL, capturing CloudTrail events to detect failed logins, IAM anomalies, and S3 activity.
-`CloudWatch` `Athena` `S3` `CloudTrail`
-
-</div>
-
-<br/>
-
-<!-- ============ GLASS CARD: WRITING ============ -->
-<div style="background: rgba(15,23,42,0.03); backdrop-filter: blur(18px); border:1px solid rgba(148,163,184,0.25); border-radius:16px; padding:20px;">
-
-## <span>✍️ Latest Writing</span>
-
-Real-world DevOps scenarios, project breakdowns, and lessons from hands-on builds — published on [Medium](https://medium.com/@pravallika96973).
-
-</div>
-
-<br/>
-
-<!-- ============ GLASS CARD: 2026 GOALS ============ -->
-<div style="background: linear-gradient(135deg, rgba(34,211,238,0.08), rgba(167,139,250,0.08)); backdrop-filter: blur(18px); border:1px solid rgba(148,163,184,0.25); border-radius:16px; padding:20px;">
-
-## <span>🎯 2026 Goals</span>
-
-- 🏆 Land a DevOps / DevSecOps / SRE role at a product-based company
-- 📜 Earn the AWS Certified DevOps Engineer – Professional certification
-- 🤖 Ship more AIOps projects with Bedrock and SageMaker
-- ✍️ Publish real-world DevOps articles on Medium
-- 🌟 Contribute to open-source cloud-native projects
-- 🏅 Earn CKA — Certified Kubernetes Administrator
-
-</div>
-
-<img src="divider.svg" width="100%" />
-
-<div align="center" style="background: linear-gradient(135deg, rgba(34,211,238,0.1), rgba(167,139,250,0.1)); backdrop-filter: blur(20px); border:1px solid rgba(148,163,184,0.25); border-radius:18px; padding:24px;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9&labelColor=1e1b4b)](https://www.linkedin.com/in/pravallikamedisetti)
-[![Medium](https://img.shields.io/badge/Medium-0f172a?style=for-the-badge&logo=medium&logoColor=67e8f9&labelColor=1e1b4b)](https://medium.com/@pravallika96973)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=1e1b4b)](mailto:pravallikame@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=1e1b4b)](https://github.com/pravalliika)
-
-<br/>
-
-<sub><i>"I don't just run pipelines — I build infrastructure teams trust in production."</i></sub>
-<br/>
-<sub>— Pravallika Medisetti</sub>
-
-</div>
+<img width="49%" src="https://streak-stats.demolab.com?user=p
