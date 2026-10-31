@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9&labelColor=1e1b4b)](https://www.linkedin.com/in/pravallikamedisetti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9&labelColor=1e1b4b)](https://www.linkedin.com/in/pravallikame/)
 [![Medium](https://img.shields.io/badge/Medium-0f172a?style=for-the-badge&logo=medium&logoColor=67e8f9&labelColor=1e1b4b)](https://medium.com/@pravallika96973)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=1e1b4b)](mailto:pravallikame@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=1e1b4b)](https://github.com/pravalliika)
