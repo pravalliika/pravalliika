@@ -172,5 +172,11 @@ Extending my DevOps foundation into the AI layer — using LLMs to make pipeline
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pravalliika&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=67e8f9&text_color=94a3b8&icon_color=a78bfa" />
-<img width="49%" src="https://streak-stats.demolab.com?user=p
+<img width="49%" src="assets/stats-card.svg" alt="GitHub statistics card: all-time contributions, commits in the past year, pull requests, stars earned, community forks, public repositories, followers and total code written" />
+<img width="49%" src="assets/languages-card.svg" alt="Most used languages card, showing the percentage breakdown of code written across all non-forked repositories" />
+
+<br/><br/>
+
+<img width="49%" src="assets/streak-card.svg" alt="Contribution card: all-time total contributions, current streak and longest streak in days" />
+
+</div>
